@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 tmp/todo.txt
 tmp/*
 
 nouvelle_ligne_a_ajouter
+=======
+tmp/todo.txt nouvelle_ligne_a_ajouter
+>>>>>>> 5360260cb4d9ca6c80e0a888183ec4e6793989cd
